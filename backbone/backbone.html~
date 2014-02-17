@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Backbone.js</title>
+    <script src="js/backbone-1.1.1.min.js"></script>
+  </head>
+  <body>
+    <h1>Backbone</h1>
+  </body>
+</html>
